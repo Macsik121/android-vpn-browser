@@ -1,4 +1,5 @@
-# 📱 Изолированный браузер с VPN (Termux + Debian + X11 + Chromium)
+# 📱 Изолированный браузер с VPN
+*Архитектура:* Termux + Debian + X11 + sing-box + Chromium
 
 ## 📂 Структура репозитория
 Перед началом работы убедитесь, что ваш репозиторий имеет следующую структуру:
@@ -31,8 +32,8 @@
 
 2. **Клонируйте репозиторий** и перейдите в папку проекта:
    ```bash
-   git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
-   cd <ИМЯ_ПАПКИ_РЕПОЗИТОРИЯ>
+   git clone https://github.com/Macsik121/android-vpn-browser
+   cd android-vpn-browser
    ```
 
 ---
