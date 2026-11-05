@@ -1,4 +1,4 @@
-﻿#!/data/data/com.termux/files/usr/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 termux-wake-lock
 pkill -9 -f "termux.x11" 2>/dev/null
 pkill -9 -f "com.termux.x11.Loader" 2>/dev/null
